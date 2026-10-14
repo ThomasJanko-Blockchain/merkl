@@ -12,7 +12,7 @@ import { formatUnits, type Address, type Hex } from 'viem'
  * => réclamable = amount - claimed
  */
 
-export const MERKL_API = 'https://api.merkl.xyz/v4'
+export const MERKL_API = `${import.meta.env.VITE_MERKL_API_BASE ?? '/merkl-api'}/v4`
 
 export interface MerklToken {
   address: Address

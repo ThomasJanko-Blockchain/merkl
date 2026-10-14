@@ -1,0 +1,3 @@
+{
+    "rewrites": [{ "source": "/merkl-api/:path*", "destination": "https://api.merkl.xyz/:path*" }]
+  }

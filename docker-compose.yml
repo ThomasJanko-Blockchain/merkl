@@ -1,0 +1,5 @@
+services:
+  web:
+    build: .
+    ports:
+      - "${DOCKER_PORT:-8080}:80"

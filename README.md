@@ -63,3 +63,14 @@ Le code est organisé ainsi :
 ---
 
 Sources : [Merkl Developer Portal](https://developers.merkl.xyz/integrate-merkl/user-rewards) · [Chains & Contracts](https://developers.merkl.xyz/resources/chains-and-contracts)
+
+## Adresses de test Merkl (relevé du 14/10/2026)
+
+| Adresse | Réclamable | En attente | Total gagné |
+|---|---|---|---|
+| `0xF078969E55caBF9AE3f26afeB5EC627B4430f19E` | ~76 900 $ | ~780 $ | ~3,8 M$ |
+| `0xB4fb31E7B1471A8e52dD1e962A281a732EaD59c1` | ~19 300 $ | ~955 $ | ~1,25 M$ |
+| `0x7bee8D37FBA61a6251a08b957d502C56E2A50FAb` | ~16 800 $ | ~2 800 $ | ~2,6 M$ |
+
+Source : campagne « Deposit USDe as collateral on USDe/USDC 91.5% » sur Base.
+Les montants évoluent toutes les quelques heures (nouvelles roots, claims).
