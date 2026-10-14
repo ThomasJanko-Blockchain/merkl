@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { isAddress, type Address } from 'viem'
 
 /** Une adresse publique active sur Merkl (exemple de la doc officielle). */
-const DEMO_ADDRESS = '0x4F2BF7469Bc38d1aE779b1F4affC588f35E60973' as Address
+const DEMO_ADDRESS = '0x7bee8D37FBA61a6251a08b957d502C56E2A50FAb' as Address
 
 export function AddressInput({ onSubmit }: { onSubmit: (a: Address) => void }) {
   const [value, setValue] = useState('')
